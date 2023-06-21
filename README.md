@@ -5,4 +5,4 @@
 
 3. The information will be garthered by AI bot then it will be checked again by some experienced reseacher before it to be public to end users.
 
-4.Some information will be update daily and the others may be updated weekly while it needs checking by reseachers to make sure that it's valueable with users.
+4. Some information will be update daily and the others may be updated weekly while it needs checking by reseachers to make sure that it's valueable with users.
